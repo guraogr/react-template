@@ -1,5 +1,5 @@
-import logo from './logo.svg'
-import './App.css'
+import logo from './logo.svg';
+import './App.css';
 
 const App = () => (
   <div className="App">
@@ -13,6 +13,6 @@ const App = () => (
       </a>
     </header>
   </div>
-)
+);
 
-export default App
+export default App;
